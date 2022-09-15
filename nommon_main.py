@@ -10,4 +10,4 @@ __copyright__ = '(c) Nommon 2022'
 from nommon.employee import Employee
 
 if __name__ == '__main__':
-    sergio = Employee("Sergio", 9)
+    sergio = Employee("Sergio", 10)
